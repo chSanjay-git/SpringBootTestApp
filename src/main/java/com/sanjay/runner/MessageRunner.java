@@ -10,6 +10,7 @@ public class MessageRunner implements CommandLineRunner {
 	public void run(String... args) throws Exception {
 
 		System.out.println("welcome to messageRunner");
+		System.out.println("hello sanjay.....");
 	}
 
 }
